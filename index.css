@@ -105,7 +105,7 @@ label {
 
 input[type="text"] {
     padding: 1em;
-    border: 2px solid black;
+    border: 2px solid #001a23;
     border-right: none;
 }
 
@@ -114,7 +114,7 @@ input[type="text"] {
 .add-ticker-btn {
     display: flex;
     align-items: center;
-    background-color: #ffffff;
+    background-color: #e8f1f2;
     font-size: 3em;
     padding: 0 .35em;
     cursor: pointer;
@@ -122,7 +122,7 @@ input[type="text"] {
 }
 
 .add-ticker-btn:hover {
-    background-color: #d2d2d2;
+    background-color: #7a9e7e;
 }
 
 .add-ticker-svg {
@@ -134,8 +134,8 @@ input[type="text"] {
     padding: 1em 1.5em;
     cursor: pointer;
     font-family: 'Poppins', sans;
-    border: 2px solid #000000;
-    background-color: #46ff90;
+    border: 2px solid #31493c;
+    background-color: #b3efb2;
     text-transform: uppercase;
     font-weight: 500;
     letter-spacing: .09em;
